@@ -1,0 +1,11 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    padding: 15px
+}
+.h1 {
+    text-align: center;
+}
+
